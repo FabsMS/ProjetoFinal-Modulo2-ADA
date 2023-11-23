@@ -18,15 +18,15 @@ O projeto é composto por classes abstratas e classes concretas para representar
 1. Clone o repositório para o seu ambiente local:
 > `git clone https://github.com/FabsMS/ProjetoFinal-Modulo2-ADA`
 
-1. Instale as dependências
+2. Instale as dependências
 > `npm i -D sucrase`
 
-1. Edite o arquivo **app.ts** com as solicitações de empréstimo desejadas
+3. Edite o arquivo **app.ts** com as solicitações de empréstimo desejadas
 
-1. Execute o script a seguir para processar as solicitações
+4. Execute o script a seguir para processar as solicitações
 > `npx sucrase-node app.ts`
 
-1. Os resultados das solicitações aprovadas e reprovadas serão exibidos no console local
+5. Os resultados das solicitações aprovadas e reprovadas serão exibidos no console local
 
 ### Contribuindo 
 
